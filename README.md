@@ -1,8 +1,6 @@
 # Olá, eu sou a Dara :)
 
-Tenho 26 anos, sou formada em Biomedicina e trabalhei na área da saúde por mais de 6 anos. Em junho de 2023 decidi realizar uma transição de carreira, e desde então estudo e desenvolvo todos os dias, com foco no desenvolvimento Front-end.
-
-> Já que sempre tive curiosidade pela área do desenvolvimento web e programação, a escolha da nova carreira veio naturalmente!
+Tenho 26 anos, e em junho de 2023 decidi trocar minha carreina na área da saúde pelo desenvolvimento web. Desde então estudo e desenvolvo todos os dias, com foco no desenvolvimento Front-end, que sempre me fascinou.
 
 ##
 

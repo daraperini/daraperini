@@ -16,12 +16,13 @@ Aqui você pode encontrar tanto projetos de cursos quanto meus projetos pessoais
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
 
 ## Estou aprendendo: 
 
 <div>
-<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />       
 </div>
 
 ##

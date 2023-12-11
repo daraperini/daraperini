@@ -27,7 +27,7 @@ Here you can find my classes projects and my personal projects!
 
 #
 
-# Olá, eu sou a Dara :)
+<!-- # Olá, eu sou a Dara :)
 
 Tenho 26 anos, e em junho de 2023 decidi trocar minha carreira na área da saúde pelo desenvolvimento Front-end. Desde então estudo e desenvolvo todos os dias, com foco no desenvolvimento Front-end, que sempre me fascinou.
 
@@ -52,7 +52,7 @@ Aqui você pode encontrar tanto projetos de cursos quanto meus projetos pessoais
 
 <div>
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />       
-</div>
+</div> -->
 
 ##
 

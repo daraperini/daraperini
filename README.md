@@ -1,6 +1,35 @@
+# Hi there! I'm Dara :)
+
+I'm 26 years old and on June 2023 I decided to change my long health career for the Front-web development. Since then I have been studying and developing everyday, focusing in Front-end wich has always fascinated me.
+
+##
+
+Here you can find my classes projects and my personal projects!
+
+> My personal projects were developed with the knoledge I have gathered from my classes and the day-to-day development. If you are interested, visit [The Store](https://the-store-delta.vercel.app/)  and see my biggest personal project so far!
+
+## Technologies and Tools: 
+
+<div>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+</div>
+
+## I'm learning: 
+
+<div>
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />       
+</div>
+
+#
+
 # Olá, eu sou a Dara :)
 
-Tenho 26 anos, e em junho de 2023 decidi trocar minha carreira na área da saúde pelo desenvolvimento web. Desde então estudo e desenvolvo todos os dias, com foco no desenvolvimento Front-end, que sempre me fascinou.
+Tenho 26 anos, e em junho de 2023 decidi trocar minha carreira na área da saúde pelo desenvolvimento Front-end. Desde então estudo e desenvolvo todos os dias, com foco no desenvolvimento Front-end, que sempre me fascinou.
 
 ##
 

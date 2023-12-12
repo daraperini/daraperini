@@ -8,7 +8,7 @@ Here you can find my classes projects and my personal projects!
 
 > My personal projects were developed with the knoledge I have gathered from my classes and the day-to-day development. If you are interested, visit [The Store](https://the-store-delta.vercel.app/)  and see my biggest personal project so far!
 
-<!--> If you want to get a sight of my best projects you can access my portfolio here  -->
+<!--  If you want to get a sight of my best projects you can access my portfolio here  -->
 
 ## Technologies and Tools: 
 

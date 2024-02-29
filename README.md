@@ -6,7 +6,7 @@ I'm 26 years old and on May 2023 I decided to change my long health career for W
 
 Here you can find my classes projects and my personal projects!
 
-> My personal projects were developed with the knoledge I have gathered from my classes and the day-to-day development. If you are interested, visit [The Store](https://the-store-delta.vercel.app/)  and see my biggest HTML, CSS and Vanilla JavaScript personal project so far!
+> My personal projects were developed with the knoledge I have gathered from my classes and the day-to-day development. If you are interested, visit [The Store](https://the-store-delta.vercel.app/)  and see my biggest HTML, CSS and Vanilla JS personal project so far!
 
 <!--  If you want to get a sight of my best projects you can access my portfolio here  -->
 

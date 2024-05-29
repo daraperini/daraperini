@@ -1,6 +1,6 @@
 # Hi there! I'm Dara :)
 
-I'm 26 years old and on May 2023 I decided to change my long health career for Web Development. Since then I have been studying and developing everyday, focusing in Front-end wich has always fascinated me.
+I'm 27 years old and on May 2023 I decided to change my long health career for Web Development. Since then I have been studying and developing everyday, focusing in Front-end wich has always fascinated me.
 
 ##
 

@@ -6,7 +6,7 @@ I'm 27 years old and on May 2023 I decided to change my long health career for W
 
 Here you can find my classes projects and my personal projects!
 
-> My personal projects were developed with the knoledge I have gathered from my classes and the day-to-day development. If you are interested, visit [The Store](https://the-store-delta.vercel.app/)  and see my biggest HTML, CSS and Vanilla JS personal project so far!
+> My personal projects were developed with the knoledge I have gathered from my classes and the day-to-day development.
 
 <!--  If you want to get a sight of my best projects you can access my portfolio here  -->
 
@@ -19,12 +19,7 @@ Here you can find my classes projects and my personal projects!
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
-
-## I'm learning: 
-
-<div>
-<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />       
+<img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />  
 </div>
 
 #
